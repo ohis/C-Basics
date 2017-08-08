@@ -1,0 +1,6 @@
+c:\users\ohis\documents\visual studio 2017\Projects\CSharp tut\CSharp tut\bin\Debug\CSharp tut.exe.config
+c:\users\ohis\documents\visual studio 2017\Projects\CSharp tut\CSharp tut\bin\Debug\CSharp tut.exe
+c:\users\ohis\documents\visual studio 2017\Projects\CSharp tut\CSharp tut\bin\Debug\CSharp tut.pdb
+c:\users\ohis\documents\visual studio 2017\Projects\CSharp tut\CSharp tut\obj\Debug\CSharp tut.csprojResolveAssemblyReference.cache
+c:\users\ohis\documents\visual studio 2017\Projects\CSharp tut\CSharp tut\obj\Debug\CSharp tut.exe
+c:\users\ohis\documents\visual studio 2017\Projects\CSharp tut\CSharp tut\obj\Debug\CSharp tut.pdb

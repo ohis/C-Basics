@@ -1,0 +1,5 @@
+c:\users\ohis\documents\visual studio 2017\Projects\SwitchStatements\SwitchStatements\bin\Debug\SwitchStatements.exe.config
+c:\users\ohis\documents\visual studio 2017\Projects\SwitchStatements\SwitchStatements\bin\Debug\SwitchStatements.exe
+c:\users\ohis\documents\visual studio 2017\Projects\SwitchStatements\SwitchStatements\bin\Debug\SwitchStatements.pdb
+c:\users\ohis\documents\visual studio 2017\Projects\SwitchStatements\SwitchStatements\obj\Debug\SwitchStatements.exe
+c:\users\ohis\documents\visual studio 2017\Projects\SwitchStatements\SwitchStatements\obj\Debug\SwitchStatements.pdb

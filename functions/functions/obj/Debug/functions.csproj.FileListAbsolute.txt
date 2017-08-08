@@ -1,0 +1,6 @@
+C:\Users\ohis\Documents\C sharp\functions\functions\bin\Debug\functions.exe.config
+C:\Users\ohis\Documents\C sharp\functions\functions\bin\Debug\functions.exe
+C:\Users\ohis\Documents\C sharp\functions\functions\bin\Debug\functions.pdb
+C:\Users\ohis\Documents\C sharp\functions\functions\obj\Debug\functions.csprojResolveAssemblyReference.cache
+C:\Users\ohis\Documents\C sharp\functions\functions\obj\Debug\functions.exe
+C:\Users\ohis\Documents\C sharp\functions\functions\obj\Debug\functions.pdb
