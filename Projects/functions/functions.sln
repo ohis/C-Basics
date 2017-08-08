@@ -1,0 +1,46 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace functions
+{
+    class Program
+    {   
+        public int Add(int x, int y)
+        {
+            return x + y;
+        }
+        public int subtract(int a, int b)
+        {
+            if (a < b)
+            {
+                Console.WriteLine("No negative numbers please");
+                return 0;
+            }
+            else
+                return x - y;
+        }
+        static void Main(string[] args)
+        {
+            Program n = new Program();
+            int a; int b;
+            Console.WriteLine("Enter the numbers you want to subtract");
+            a = int.Parse(Console.ReadLine());
+            b = int.Parse(Console.ReadLine());
+            Console.WriteLine("The solution to " + "x - y =" + " " + n.subtract(a, b));
+            Console.WriteLine("The sum of the two numbers are" + " " + n.Add(5, 4));
+            string name = "angel";
+           Console.WriteLine("just wanted to print"+ " "+ Name(name));
+            Console.ReadLine();
+        }
+
+        static string Name(string x)
+        {
+           
+            Console.WriteLine("Printing DoStuff");
+            return x;
+        }
+    }
+}
