@@ -16,7 +16,7 @@ namespace Arrays
 
             foreach (string s in names)
                 Console.WriteLine(s);
-            Console.ReadLine();
+            Console.ReadLine();  
         }
     }
 }
